@@ -17,7 +17,8 @@ git clone https://github.com/arsalanamanat/search-app.git
 ```
 
 ### 2. Enter back-end or search-app-challenge
-```bash 
+```bash
+cd search-app
 cd back-end
 OR
 cd search-app-challenge
