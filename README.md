@@ -23,7 +23,7 @@ cd back-end
 OR
 cd search-app-challenge
 ```
-You will find a seperate README.md file for `search-app-challene` project with necessary details to run - test  or build the app . For `back-end` continue with the instructions below
+You will find a seperate README.md file for `search-app-challege` project with necessary details to `run` - `test`  or `build` the app . For `back-end` continue with the instructions below
 
 ## Structure
 ```
