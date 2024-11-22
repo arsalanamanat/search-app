@@ -4,7 +4,7 @@
   }
   
   .search-box {
-    min-height: 500px;
+    min-height: 50vh;
     border-radius: 10px;
     color: rgb(20, 40, 147);
     background-color: white;
@@ -22,12 +22,12 @@
     border: 1px solid #d0d0d0;
     border-radius: 15px;
     outline: none;
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom: 10px;
     background-color: rgb(245, 248, 250);
   }
   
   .search-input:focus {
-    font-weight: 500;
+    font-weight: 600;
     background-color: #dce3f74f;
     border: 1px solid rgba(0, 123, 255, 0.5);
   }
@@ -35,5 +35,5 @@
   
   .is-warning {
     color: red;
-    font-weight: 100;
+    font-weight: 400;
   }

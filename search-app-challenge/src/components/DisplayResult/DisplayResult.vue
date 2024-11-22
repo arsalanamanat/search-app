@@ -24,7 +24,7 @@ function isBook(result: Book | City): result is Book {
 
 <template>
   <div>
-    <span v-if="searchQuery.length >= MINIMUM_QUERY_LENGTH && results.length === 0 ">No results Found</span>
+    <span v-if="searchQuery.length >= MINIMUM_QUERY_LENGTH && results.length === 0 ">No results found</span>
     <ul v-else="results.length">
       <li v-for="result in results" class="result">
         <span v-if="isBook(result)">{{ result.title }} <small v-if="result.author">{{ result.author }}</small> </span>
