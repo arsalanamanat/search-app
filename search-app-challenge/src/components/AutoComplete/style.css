@@ -1,0 +1,39 @@
+.search-box h1:hover {
+    color: rgb(51, 153, 255);
+    cursor: pointer;
+  }
+  
+  .search-box {
+    min-height: 500px;
+    border-radius: 10px;
+    color: rgb(20, 40, 147);
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    border-radius: 25px;
+  }
+  
+  
+  .search-input {
+    width: 60%;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #d0d0d0;
+    border-radius: 15px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    background-color: rgb(245, 248, 250);
+  }
+  
+  .search-input:focus {
+    font-weight: 500;
+    background-color: #dce3f74f;
+    border: 1px solid rgba(0, 123, 255, 0.5);
+  }
+  
+  
+  .is-warning {
+    color: red;
+    font-weight: 100;
+  }
