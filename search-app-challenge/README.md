@@ -35,37 +35,31 @@ src/
 ```
 ## Setup & Installation 
 
-### 1. Clone the Reporitory
-```bash 
-git clone https://github.com/arsalanamanat/search-app.git
 
-cd vue-autocomplete-challenge
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 ```bash 
 npm install
 ```
 
-### 3. Run development server
+### 2. Run development server
 ```bash 
 npm run dev
 ```
 
-### 4. Open in browser [click](http://localhost:5173/)
+### 3. Open in browser [click](http://localhost:5173/)
 
 
-### 5. To run the Unit test 
+### 4. To run the Unit test 
 ```bash 
 npm run test:unit
 ```
 
-### 6. To run the end-to-end test 
+### 5. To run the end-to-end test 
 ```bash 
 npm run test:e2e
 ```
 
-### 7. To build the project
+### 6. To build the project
 ```bash 
 npm run build
 ```
