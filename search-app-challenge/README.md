@@ -37,7 +37,7 @@ src/
 
 ### 1. Clone the Reporitory
 ```bash 
-git clone [https://github.com/your-usernameue-autocomplete-challenge.git](https://github.com/arsalanamanat/search-app.git)
+git clone https://github.com/your-usernameue-autocomplete-challenge.git
 
 cd vue-autocomplete-challenge
 ```
