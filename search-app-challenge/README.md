@@ -1,4 +1,4 @@
-# Seach Applicatin Challenge
+# Seach Application Challenge
 
 ## Overview
 This is a Vue.js application built to fulfill an autocomplete challenge. The app features two autocomplete fields: one for searching cities and another for searching books. The results update dynamically based on user input, with robust handling for edge cases like no results or insufficient characters entered.
@@ -37,7 +37,7 @@ src/
 
 ### 1. Clone the Reporitory
 ```bash 
-git clone https://github.com/your-usernameue-autocomplete-challenge.git
+git clone [https://github.com/your-usernameue-autocomplete-challenge.git](https://github.com/arsalanamanat/search-app.git)
 
 cd vue-autocomplete-challenge
 ```
