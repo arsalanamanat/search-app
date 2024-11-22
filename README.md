@@ -29,7 +29,7 @@ You will find a seperate README.md file for `search-app-challege` project with n
 ```
 back-end/
 ├── data/  
-│   ├── trade.csv  # End to end test  /
+│   ├── trade.csv  
 ├── tests/
 │   ├── Autocomplete/ 
 │   │    ├── excessive-cancellations-checker-methods-test.spec.js     # Test file to test the methods of ExcessiveCancellationsChecker class         
