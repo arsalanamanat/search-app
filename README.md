@@ -1,4 +1,4 @@
-# Seach Applicatin Challenge
+# Seach Application Challenge
 
 ## Overview
 This is a public repository . Worked with front-end and back-end technologies to complete a challenge.
@@ -6,8 +6,7 @@ This is a public repository . Worked with front-end and back-end technologies to
 ## Folder Structure
 ```
 search-app/
-├── back-end/  
-│   
+├── back-end/    
 ├── search-app-challenge/
 ```
 ## Setup & Installation 
